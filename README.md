@@ -1,4 +1,5 @@
 Sistema de gestión de una biblioteca.
+
 Ejecución del programa.
 
 Para poder ejecutar el programa en tu computadora primero debes asegurarte de que tienes instalado el JDK y JVM de Java una vez que tengas instaladas estas herramientas puedes ejecutar el programa en un entorno de desarrollo IDE o en consola.
